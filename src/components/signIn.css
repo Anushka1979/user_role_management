@@ -1,0 +1,18 @@
+.btn-color {
+  background-color: rgb(176, 132, 123);
+  border: none;
+  color: white;
+}
+
+.btn-color-user {
+  background-color: rgb(176, 132, 123);
+  border: none;
+  color: white;
+}
+
+.btn-color:hover {
+  background-color: rgb(167, 154, 152); 
+}
+.text{
+  color:rgba(37, 7, 2, 0.781) ;
+}
